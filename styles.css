@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 500px;
+    position: fixed;   
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 19px;
+    height: 52px;
+}
+button{
+    height: 60px;
+    width: 60px;
+    font-size: 19px;
+}
+.zero-button{
+    width: 125px;
+}
+.history{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 20px;
+    color: rgb(90, 87, 87);
+
+}
+#history_ul{
+    margin-right: 40px;
+    font-size: 19px;
+    padding-left: 40px;
+}
